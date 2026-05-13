@@ -102,8 +102,6 @@ Just tell me, Mr. Rathore!
 
 🔥 Passionate about Web Development & Java
 
-🌍 From Bihar, India
-
 📘 GitHub: Saurabh-Singh33
 
 📬 Contact
@@ -117,4 +115,4 @@ Just tell me, Mr. Rathore!
 📝 License
 
 This project is open for learning and improvement.
-Feel free to fork it and enhance it! 🚀
+Feel free to fork it and enhance it! 
