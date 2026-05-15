@@ -106,10 +106,9 @@ Just tell me, Mr. Rathore!
 
 📬 Contact
 
-📧 Email: you can provide the one you want me to put
 💬 GitHub: https://github.com/Saurabh-Singh33
 
- 
+
 📍 Always open for collaboration & project ideas!
 
 📝 License
